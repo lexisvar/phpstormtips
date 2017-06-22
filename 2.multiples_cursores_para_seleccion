@@ -1,0 +1,17 @@
+// Múltiples cursores para selección
+
+$foo = 'test';
+$this->hacerAlgo($foo);
+
+//$foo
+return $foo
+
+--
+Presione Alt+J para agregar un nuevo cursor
+
+Presione Shift+Alt+J para eliminar el ultimo cursor
+
+Para Mac
+
+Presione Ctrl+G para agregar un nuevo cursor
+Presione Shift+Ctrl+G para eliminar el ultimo cursor

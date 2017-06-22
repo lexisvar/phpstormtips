@@ -1,0 +1,27 @@
+// Manipulaciòn de Lineas
+
+
+
+/*
+
+- Agregue una linea abajo de esta
+- Agregue una linea arriba de esta
+- Duplique esta linea
+- Copie o corte esta linea
+- Elimine esta linea
+
+*/
+
+Presione Shift+Enter para agregar una nueva linea despues de la linea actual.
+Presione Ctrl+Alt+Enter para agregar una nueva linea antes de la linea actual.
+Presione Ctrl+D para duplicar la linea actual.
+Presione Ctrl+C/X para copiar/cortar la linea actual.
+Presione Ctrl+Y para eliminar la linea actual.
+
+Para Mac
+
+Presione Shift+Enter para agregar una nueva linea despues de la linea actual.
+Presione Cmd+Alt+Enter para agregar una nueva linea antes de la linea actual.
+Presione Cmd+D para duplicar la linea actual.
+Presione Cmd+C/X para copiar/cortar la linea actual.
+Presione Cmd+Backspace para eliminar la linea actual.
